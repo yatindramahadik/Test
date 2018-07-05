@@ -15,7 +15,7 @@ public class Ball : MonoBehaviour {
         //print(paddletoBallVector.y);
 
 	}
-	// wasuup buddy how are you
+	// wasuup buddy how are you 22
 	// Update is called once per frame
 	void Update () {
         if (!hasStarted)
